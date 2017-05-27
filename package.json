@@ -46,6 +46,6 @@
       "locator": "ios"
     }
   ],
-  "name": "image-gallery",
+  "name": "ionic-image-gallery-app",
   "description": "image-gallery: An Ionic project"
 }
